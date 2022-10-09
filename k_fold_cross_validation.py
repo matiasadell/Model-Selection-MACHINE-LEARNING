@@ -1,13 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May  2 16:47:17 2019
-
-@author: juangabriel
-"""
-
 # k - Fold Cross Validation
-
 
 # Cómo importar las librerías
 import numpy as np
